@@ -347,7 +347,7 @@ int id action_menu_presenter 0x7f090006
 int id action_mode_bar 0x7f090030
 int id action_mode_bar_stub 0x7f09002f
 int id action_mode_close_button 0x7f090022
-int id action_settings 0x7f090045
+int id action_settings 0x7f090044
 int id activity_chooser_view_content 0x7f090023
 int id always 0x7f090014
 int id beginning 0x7f09001b
@@ -361,7 +361,6 @@ int id dialog 0x7f090019
 int id disableHome 0x7f09000d
 int id dropdown 0x7f09001a
 int id editText1 0x7f090043
-int id editText2 0x7f090044
 int id edit_query 0x7f090035
 int id end 0x7f09001c
 int id expand_activities_button 0x7f090024

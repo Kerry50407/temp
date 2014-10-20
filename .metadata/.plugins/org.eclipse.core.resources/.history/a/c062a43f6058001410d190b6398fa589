@@ -25,13 +25,13 @@ public class MainActivity extends ActionBarActivity {
         editText1 = (EditText) findViewById(R.id.editText1);
         button1 = (Button) findViewById(R.id.button1);
         
-        textView1.setText("Hello World!");
-        button1.setText("Sumit");
+        textView1.setText("Good!");
+        button1.setText("Nice!");
         
         
     }
     
-    public void clickButton(View view) {
+    private void buttonClick(View view) {
     	
     	String newText = editText1.getText().toString();
     	textView1.setText(newText);
